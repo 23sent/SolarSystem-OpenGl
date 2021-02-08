@@ -32,6 +32,6 @@ I preferred Icospheres to render planets.
 # Sources
 Texture images from: https://www.solarsystemscope.com/textures/
 
-#-
+# Freeglut - Glew
 freeglut	2.8.1-1.mp
 glew 		1.11.0
